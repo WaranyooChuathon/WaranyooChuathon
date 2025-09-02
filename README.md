@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
+  <img  />
 </p>
 
 <h1 align="center">Hi, I’m Waranyoo Chuathon <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 - 🌱  I’m currently learning **⟪React and Next.js⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
+- 🛠  Daily driver stack: **⟪PHP / Laravel⟫**  
 - 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪waranyoo.chuathon@gmail.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+- 📫  Reach me: **⟪waranyoo.chuathon@gmail.com⟫** | [LinkedIn](https://www.linkedin.com/in/waranyoo-chuathon-13806433a/) 
 
 ---
 
@@ -44,30 +44,14 @@
 
 _Add 2–4 projects max. Each row should fit on one screen._
 
----
-
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
 
 ---
 
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 💌 Email: ⟪waranyoo.chuathon@gmail.com⟫  
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
