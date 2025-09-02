@@ -38,7 +38,7 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
+| **⟪Project A⟫** | C# · SQLite · Microsoft Azure | Final Project Password Manager MyPass | [Repo](⟪https://github.com/WaranyooChuathon/MyPass-Password-Manager⟫) |
 | **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
 | **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
 
